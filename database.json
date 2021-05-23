@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "shape": "triangle",
+    "dimension": {
+      "a": 3,
+      "b": 6,
+      "c": 8
+    },
+    "area": 7.644442425710328,
+    "createdAt": "2021-05-08T21:41:14.302Z"
+  },
+  {
+    "id": 2,
+    "shape": "rectangle",
+    "dimension": {
+      "a": 3,
+      "b": 6
+    },
+    "area": 18,
+    "createdAt": "2021-05-08T21:41:29.937Z"
+  },
+  {
+    "id": 3,
+    "shape": "circle",
+    "dimension": 9,
+    "area": 254.46900494077323,
+    "createdAt": "2021-05-08T21:41:50.928Z"
+  },
+  {
+    "id": 4,
+    "shape": "square",
+    "dimension": 9,
+    "area": 81,
+    "createdAt": "2021-05-08T21:42:07.700Z"
+  },
+  {
+    "id": 5,
+    "shape": "square",
+    "dimension": 9,
+    "area": 81,
+    "createdAt": "2021-05-08T21:46:37.056Z"
+  },
+  {
+    "id": 6,
+    "shape": "circle",
+    "dimension": 9,
+    "area": 254.46900494077323,
+    "createdAt": "2021-05-08T21:46:49.732Z"
+  },
+  {
+    "id": 7,
+    "shape": "rectangle",
+    "dimension": {
+      "a": 2,
+      "b": 3
+    },
+    "area": 6,
+    "createdAt": "2021-05-08T21:47:22.331Z"
+  },
+  {
+    "id": 8,
+    "shape": "triangle",
+    "dimension": {
+      "a": 2,
+      "b": 3,
+      "c": 4
+    },
+    "area": 2.9047375096555625,
+    "createdAt": "2021-05-08T21:47:42.985Z"
+  },
+  {
+    "id": 9,
+    "shape": "triangle",
+    "dimension": {
+      "a": 20,
+      "b": 3,
+      "c": 2
+    },
+    "area": null,
+    "createdAt": "2021-05-08T22:44:34.909Z"
+  },
+  {
+    "id": 10,
+    "shape": "square",
+    "dimension": {
+      "a": 5,
+      "b": 3,
+      "c": 2
+    },
+    "area": null,
+    "createdAt": "2021-05-11T13:21:25.096Z"
+  },
+  {
+    "id": 11,
+    "shape": "square",
+    "dimension": 6,
+    "area": 36,
+    "createdAt": "2021-05-11T13:24:01.524Z"
+  },
+  {
+    "id": 12,
+    "shape": "rectangle",
+    "dimension": {
+      "a": 20,
+      "b": 3
+    },
+    "area": 60,
+    "createdAt": "2021-05-11T13:31:25.080Z"
+  },
+  {
+    "id": 13,
+    "shape": "triangle",
+    "dimension": {
+      "a": 20,
+      "b": 3,
+      "c": 2
+    },
+    "area": null,
+    "createdAt": "2021-05-11T13:35:31.984Z"
+  },
+  {
+    "id": 14,
+    "shape": "triangle",
+    "dimension": {
+      "a": 6,
+      "b": 3,
+      "c": 2
+    },
+    "area": null,
+    "createdAt": "2021-05-11T13:35:38.957Z"
+  },
+  {
+    "id": 15,
+    "shape": "triangle",
+    "dimension": {
+      "a": 5,
+      "b": 3,
+      "c": 2
+    },
+    "area": 0,
+    "createdAt": "2021-05-11T13:35:57.272Z"
+  },
+  {
+    "id": 16,
+    "shape": "triangle",
+    "dimension": {
+      "a": 4,
+      "b": 3,
+      "c": 2
+    },
+    "area": 2.9047375096555625,
+    "createdAt": "2021-05-11T13:36:04.640Z"
+  },
+  {
+    "id": 17,
+    "shape": "triangle",
+    "dimension": {
+      "a": 2,
+      "b": 3,
+      "c": 2
+    },
+    "area": 1.984313483298443,
+    "createdAt": "2021-05-11T13:36:21.746Z"
+  },
+  {
+    "id": 18,
+    "shape": "square",
+    "dimension": 6,
+    "area": 36,
+    "createdAt": "2021-05-11T13:39:03.689Z"
+  },
+  {
+    "id": 19,
+    "shape": "circle",
+    "dimension": 6,
+    "area": 113.09733552923255,
+    "createdAt": "2021-05-11T13:43:18.465Z"
+  }
+]
